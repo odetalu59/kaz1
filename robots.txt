@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: http://plutonia.nl/superjp/sitemap.xml
+Sitemap: http://plutonia.nl/gilajp/sitemap.xml
+Sitemap: http://plutonia.nl/gojekpot/sitemap.xml
+Sitemap: http://plutonia.nl/winstrike69/sitemap.xml
+Sitemap: http://plutonia.nl/slotgacor/sitemap.xml
+Sitemap: http://plutonia.nl/slotzeus/sitemap.xml
+Sitemap: http://plutonia.nl/kaptenjackpot/sitemap.xml
+Sitemap: http://plutonia.nl/boosterjp/sitemap.xml
+Sitemap: http://plutonia.nl/kerajaanslot/sitemap.xml
+Sitemap: http://plutonia.nl/pakong86/sitemap.xml
+Sitemap: http://plutonia.nl/viral88/sitemap.xml
+Sitemap: http://plutonia.nl/clan4d/sitemap.xml
+Sitemap: http://plutonia.nl/dinamit4d/sitemap.xml
+Sitemap: http://plutonia.nl/elang212/sitemap.xml
+Sitemap: http://plutonia.nl/gori77/sitemap.xml
+Sitemap: http://plutonia.nl/viral4d/sitemap.xml
+Sitemap: http://plutonia.nl/playground88/sitemap.xml
